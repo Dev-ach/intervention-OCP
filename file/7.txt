@@ -1,0 +1,41 @@
+vous travailler dans une societe de service specialiser dans le developpement de logiciel, le nom de cette dernier (Tech-element) en temps
+que chef de projet.
+et venait le prendre en charge mise en place d'une solution de gestion du réglement clients (voyageurs) pour le compte ONCF.
+Le directeur generale vous informe de l'importence capitale de ce projet, et souhaite maitre a votre disposition tous les elements et outies nessaicere
+pour vous aidez a cloturer le projet dans le delais souhaiter par ONCF, cet solution devrais proposer ces solution suivante :
+-Un Module client instaler sur des borne automatique destiner a remplacer les operateur de gicher 
+-Un Module serveur installer a rabat avec une base de données.
+
+QUESTIONS:
+
+-Determiner le nom de la societe maitrise l'ouvrage
+-Determiner le nom de la societe maitrise d'euvre
+-Quel son les future utilisateur de ce logiciel 
+-Determiner les etape cle de ce projet
+-Quel seront vos besoins en terme de resource pour conduire et gerrer avaec sucsser le projet
+-Qu'el sont les livrable a donner au client
+-proposer d'apres ce que vous avez etudier au cours de votre etudes les principale technologie aprevoire pour la realisation du projet.
+-proposer des tache pour la realisation de ce projet avec leur dure.
+-Diagramme de perte.
+
+Reponce:
+
+-Maitre ouvrage : ONCF
+-Maitre oeuvre  : Tech-element 
+-les voyageur 
+-etablire le cahier des charges, determiner le budget, choisir les technologies aproprier,realisation du projet,validation,deploiement
+- resource humain: DEVELOPEURS , chef de projet ,directeur technique ,designeur.
+  resource materiel:serveur, pc,transport personel,...
+-Cahier des charges, contra, bounet de commande...
+-Les principale technologie se resume sur le ADO.net et sqlServer
+-Tâches:
+ 	*analyse du projet 
+ 	*realisation de MCD et MLD
+ 	*Modelisation UML de l'application
+ 	*creation de la base de données 
+ 	*programation de l'application
+	*test et evaluation de l'application 
+	*validation 
+	*deploiement de l'application
+
+
